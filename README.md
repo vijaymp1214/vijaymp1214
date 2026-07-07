@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Vijay Prajapati
 
-### 🚀 Java Full Stack Developer | Spring Boot | React.js | REST APIs | MySQL
+### ☕ Java Full Stack Developer | 🌐 Web Developer | 🚀 Open to Work
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React.js+Developer;REST+API+Developer;Open+to+Work+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;REST+API+Developer;Open+to+Work+%F0%9F%9A%80"/>
 </p>
 
 <a href="https://www.linkedin.com/in/vijay-prajapati-439243330">
@@ -22,59 +22,96 @@
 
 # 💫 About Me
 
-💻 Passionate **Java Full Stack Developer** with hands-on experience in building secure and scalable web applications.
+💻 Passionate **Java Full Stack Developer** with hands-on experience in designing and developing secure, scalable, and responsive web applications.
 
-🚀 Experienced in developing Full Stack applications using **Java, Spring Boot, Spring Security, Hibernate, JPA, React.js, MySQL, MongoDB, HTML, CSS, JavaScript, TypeScript and Tailwind CSS.**
+🚀 Experienced in building Full Stack applications using **Java, Spring Boot, Spring Security, Hibernate, JPA, React.js, MySQL, MongoDB, HTML, CSS, JavaScript, Bootstrap, and REST APIs.**
 
 🔥 Strong understanding of
 
-- Object-Oriented Programming (OOP)
-- Collections Framework
-- Exception Handling
-- Multithreading
-- REST APIs
-- JWT Authentication
-- Layered Architecture
-- Database Design
+- ✅ Object-Oriented Programming (OOP)
+- ✅ Collections Framework
+- ✅ Exception Handling
+- ✅ Multithreading
+- ✅ REST APIs
+- ✅ JWT Authentication
+- ✅ Layered Architecture
+- ✅ Database Design
 
-🎯 Looking for opportunities as a **Java Developer / Software Developer** where I can build high-quality software and contribute to real-world projects.
+🎯 Looking for opportunities as a **Java Developer / Software Developer** where I can contribute, solve real-world problems, and build high-quality software.
 
 ---
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Languages
+## 💻 Programming Languages
+
+☕ **Java**
+
+🌐 **HTML5**
+
+🎨 **CSS3**
+
+⚡ **JavaScript**
+
+🗄️ **SQL**
+
+---
+
+## ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css"/>
-</p>
 
-### ⚙ Backend
-
-<p>
 <img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+
 </p>
 
-### 🎨 Frontend
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
-</p>
+## 🎨 Frontend
 
-### 🗄 Database
+🌐 HTML5
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
+🎨 CSS3
 
-### 🧰 Tools
+⚡ JavaScript
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea"/>
-</p>
+⚛️ React.js
+
+🅱 Bootstrap
+
+---
+
+## 🗄 Database
+
+🛢️ MySQL
+
+🍃 MongoDB
+
+---
+
+## 🧰 Tools
+
+🔹 Git
+
+🔹 GitHub
+
+🔹 Maven
+
+🔹 Postman
+
+🔹 IntelliJ IDEA
+
+🔹 VS Code
+
+🔹 NetBeans
 
 ---
 
@@ -88,7 +125,7 @@
 
 ✔ Secure REST APIs
 
-✔ Job Posting & Application System
+✔ Job Posting & Application Management
 
 ✔ Candidate Profile Management
 
@@ -118,7 +155,9 @@ https://github.com/vijaymp1214/Marksheet-Generator
 
 ## 🎬 Movie Ticket Booking Website
 
-> React.js • TypeScript • Tailwind CSS
+> React.js • HTML • CSS • JavaScript
+
+✔ Responsive User Interface
 
 ✔ Seat Selection
 
@@ -126,15 +165,13 @@ https://github.com/vijaymp1214/Marksheet-Generator
 
 ✔ Payment Summary
 
-✔ Responsive UI
-
 🔗 Repository
 
 https://github.com/vijaymp1214/movie-ticket-booking-website
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -170,9 +207,9 @@ https://github.com/vijaymp1214
 
 <div align="center">
 
-## ⭐ Thanks for visiting my GitHub Profile!
+## ⭐ Thanks for Visiting My GitHub Profile!
 
-### *"First, solve the problem. Then, write the code."* — John Johnson
+### *"First, solve the problem. Then, write the code."*
 
 <img src="https://komarev.com/ghpvc/?username=vijaymp1214&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
