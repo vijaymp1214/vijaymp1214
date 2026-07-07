@@ -1,80 +1,154 @@
-<p align="center">
-  <img src="vijay-profile.jpg" width="210" style="border-radius: 50%; box-shadow: 0 0 20px #00c3ff;" />
+<div align="center">
+
+# 👋 Hi, I'm Vijay Prajapati
+
+### 🚀 Java Full Stack Developer | Spring Boot | React.js | REST APIs | MySQL
+
+<p>
+  <a href="https://github.com/vijaymp1214">
+    <img src="https://img.shields.io/github/followers/vijaymp1214?label=Followers&style=for-the-badge">
+  </a>
+  <a href="https://github.com/vijaymp1214">
+    <img src="https://img.shields.io/github/stars/vijaymp1214?style=for-the-badge">
+  </a>
 </p>
 
-<h1 align="center">👋 Hey! I'm Vijay Prajapati</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijay-prajapati-439243330)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vijaymp1214)
 
-<h3 align="center">Java Full-Stack Developer | Web Developer | Mobile App Developer</h3>
-
-<p align="center">
-Coding • Learning • Building • Improving 🚀
-</p>
+</div>
 
 ---
 
-## 🚀 About Me  
+# 💫 About Me
 
-- 🌱 Learning **Java Full Stack, React.js, JavaScript**  
-- 🏗️ Building **Online Dalal – Real Estate Project (Java Full Stack)**  
-- 🎟️ Creating **BookMyShow Clone (Front-End)**  
-- 🔥 Interested in Full Stack Development & App Development  
-- 🤝 Open to internships, freelancing, and collaboration  
+💻 Passionate **Java Full Stack Developer**
 
----
+🌱 Currently learning **Advanced Spring Boot, Spring Security, Microservices**
 
-## 🧠 Tech Stack  
+🚀 Building scalable **Full Stack Web Applications**
 
-### 👨‍💻 Frontend  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
+📚 Strong knowledge of **Java, Spring Boot, REST APIs, React.js & MySQL**
 
-### ☕ Backend  
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
-![Servlet](https://img.shields.io/badge/Servlet-181717?style=for-the-badge)
+🎯 Goal: Become a Professional Software Engineer
 
-### 🗄 Database  
-![MySQL](https://img.shields.io/badge/MySQL-0A6EBD?style=for-the-badge&logo=mysql&logoColor=white)
+🤝 Open for:
 
-### 🧰 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- Java Developer Roles
+- Full Stack Development
+- Internships
+- Freelance Projects
+- Open Source Contributions
 
 ---
 
-## 📌 Projects  
+# 🛠 Tech Stack
 
-### 🎟️ **BookMyShow Clone**  
-Front-end movie ticket booking platform using **HTML, CSS, JS, Bootstrap**.
+## 💻 Languages
 
-### 🏘️ **Online Dalal – Real Estate Web App**  
-Java Full-Stack platform for property listing, searching, and booking.
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vijaymp1214&show_icons=true&theme=react" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaymp1214&layout=compact&theme=react" height="160" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
-## 🌐 Connect With Me  
+## ⚙ Backend
 
-💼 Open for:  
-✔ Internships  
-✔ Freelancing  
-✔ Java + Web Development Projects  
-
-📩 *Let’s connect & build something amazing!*
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 
 ---
 
-⭐ **If you like my work, follow me — it motivates me!**
+## 🎨 Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+---
+
+## 🗄 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+---
+
+## 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+
+---
+
+# 🚀 Featured Projects
+
+## 💼 Job Portal Management System
+
+> Java • Spring Boot • React.js • JWT • MySQL
+
+A secure Full Stack Job Portal with authentication, role-based authorization, job posting, candidate management, and REST APIs.
+
+🔗 https://github.com/vijaymp1214/Job-Portal-Management-System
+
+---
+
+## 📑 Marksheet Generator System
+
+> Java • Spring Boot • Spring Security • MongoDB
+
+REST API based marksheet management system with authentication and layered architecture.
+
+🔗 https://github.com/vijaymp1214/Marksheet-Generator
+
+---
+
+## 🎬 Movie Ticket Booking Website
+
+> React.js • TypeScript • Tailwind CSS
+
+Responsive movie ticket booking platform with seat selection and booking workflow.
+
+🔗 https://github.com/vijaymp1214/movie-ticket-booking-website
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vijaymp1214&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vijaymp1214&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaymp1214&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** vijay12p14@gmail.com
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/vijay-prajapati-439243330
+
+💻 **GitHub**
+https://github.com/vijaymp1214
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my work, consider giving a ⭐ to my repositories.**
+
+</div>
