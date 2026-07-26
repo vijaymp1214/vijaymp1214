@@ -1,117 +1,128 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Vijay Prajapati</h1>
 
-# 👋 Hi, I'm Vijay Prajapati
+<h3 align="center">
+💻 Software Developer | ☕ Java Developer | 🚀 Full Stack Developer
+</h3>
 
-### ☕ Java Full Stack Developer | 🌐 Web Developer | 🚀 Open to Work
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;REST+API+Developer;Open+to+Work+%F0%9F%9A%80"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Software+Developer;Java+Developer;Spring+Boot+Developer;Backend+Developer;Full+Stack+Developer" />
 </p>
 
-<a href="https://www.linkedin.com/in/vijay-prajapati-439243330">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=vijaymp1214">
+<img src="https://komarev.com/ghpvc/?username=vijaymp1214&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/vijaymp1214?tab=followers">
+<img src="https://img.shields.io/github/followers/vijaymp1214?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/vijaymp1214">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/vijaymp1214?style=for-the-badge"/>
 </a>
-
-</div>
+</p>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-💻 Passionate **Java Full Stack Developer** with hands-on experience in designing and developing secure, scalable, and responsive web applications.
+💻 Passionate **Software Developer** with hands-on experience in building scalable, secure, and responsive web applications.
 
-🚀 Experienced in building Full Stack applications using **Java, Spring Boot, Spring Security, Hibernate, JPA, React.js, MySQL, MongoDB, HTML, CSS, JavaScript, Bootstrap, and REST APIs.**
+🚀 Skilled in developing Full Stack applications using
 
-🔥 Strong understanding of
+- ☕ Java
+- Spring Boot
+- Spring Security
+- Hibernate
+- JPA
+- React.js
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- MySQL
+- MongoDB
+- REST APIs
 
-- ✅ Object-Oriented Programming (OOP)
-- ✅ Collections Framework
-- ✅ Exception Handling
-- ✅ Multithreading
-- ✅ REST APIs
-- ✅ JWT Authentication
-- ✅ Layered Architecture
-- ✅ Database Design
+🎯 I enjoy solving real-world problems, learning new technologies, and writing clean, maintainable code.
 
-🎯 Looking for opportunities as a **Java Developer / Software Developer** where I can contribute, solve real-world problems, and build high-quality software.
+💼 Open to opportunities as
+
+- Software Developer
+- Java Developer
+- Backend Developer
+- Full Stack Developer
+- Software Engineer
+
+---
+
+# 💡 Core Skills
+
+✔ Object-Oriented Programming
+
+✔ Collections Framework
+
+✔ Exception Handling
+
+✔ Multithreading
+
+✔ REST APIs
+
+✔ Spring Security
+
+✔ JWT Authentication
+
+✔ Hibernate & JPA
+
+✔ Database Design
+
+✔ Layered Architecture
+
+✔ Git & GitHub
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Programming Languages
+## 💻 Languages
 
-☕ **Java**
-
-🌐 **HTML5**
-
-🎨 **CSS3**
-
-⚡ **JavaScript**
-
-🗄️ **SQL**
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
+</p>
 
 ---
 
 ## ⚙ Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
 </p>
+
+Spring Boot • Spring Security • Hibernate • JPA • REST APIs • JWT
 
 ---
 
 ## 🎨 Frontend
 
-🌐 HTML5
-
-🎨 CSS3
-
-⚡ JavaScript
-
-⚛️ React.js
-
-🅱 Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap"/>
+</p>
 
 ---
 
 ## 🗄 Database
 
-🛢️ MySQL
-
-🍃 MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
 
 ---
 
 ## 🧰 Tools
 
-🔹 Git
-
-🔹 GitHub
-
-🔹 Maven
-
-🔹 Postman
-
-🔹 IntelliJ IDEA
-
-🔹 VS Code
-
-🔹 NetBeans
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
+</p>
 
 ---
 
@@ -119,15 +130,14 @@
 
 ## 💼 Job Portal Management System
 
-> Java • Spring Boot • React.js • JWT Authentication • MySQL
+**Java • Spring Boot • React.js • JWT • MySQL**
 
-✔ Role-Based Authentication
+✨ Features
 
-✔ Secure REST APIs
-
-✔ Job Posting & Application Management
-
-✔ Candidate Profile Management
+- Role-Based Authentication
+- Secure REST APIs
+- Job Posting & Application
+- Candidate Profile Management
 
 🔗 Repository
 
@@ -137,15 +147,14 @@ https://github.com/vijaymp1214/Job-Portal-Management-System
 
 ## 📚 Marksheet Generator System
 
-> Java • Spring Boot • Spring Security • MongoDB
+**Java • Spring Boot • Spring Security • MongoDB**
 
-✔ Student Management
+✨ Features
 
-✔ Authentication & Authorization
-
-✔ REST APIs
-
-✔ Layered Architecture
+- Student Management
+- Authentication & Authorization
+- REST APIs
+- Layered Architecture
 
 🔗 Repository
 
@@ -155,15 +164,14 @@ https://github.com/vijaymp1214/Marksheet-Generator
 
 ## 🎬 Movie Ticket Booking Website
 
-> React.js • HTML • CSS • JavaScript
+**React.js • HTML • CSS • JavaScript**
 
-✔ Responsive User Interface
+✨ Features
 
-✔ Seat Selection
-
-✔ Booking Workflow
-
-✔ Payment Summary
+- Responsive UI
+- Seat Booking
+- Payment Summary
+- Booking Workflow
 
 🔗 Repository
 
@@ -175,42 +183,42 @@ https://github.com/vijaymp1214/movie-ticket-booking-website
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vijaymp1214&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vijaymp1214&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaymp1214&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaymp1214&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaymp1214&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaymp1214&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Connect With Me
 
-📧 **Email**
+<p>
 
-vijay12p14@gmail.com
+<a href="mailto:vijay12p14@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-💼 **LinkedIn**
+<a href="https://www.linkedin.com/in/vijay-prajapati-439243330">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-https://www.linkedin.com/in/vijay-prajapati-439243330
+<a href="https://github.com/vijaymp1214">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-💻 **GitHub**
-
-https://github.com/vijaymp1214
+</p>
 
 ---
 
-<div align="center">
+<h3 align="center">
 
-## ⭐ Thanks for Visiting My GitHub Profile!
+⭐ First, solve the problem. Then, write the code.
 
-### *"First, solve the problem. Then, write the code."*
-
-<img src="https://komarev.com/ghpvc/?username=vijaymp1214&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+</h3>
